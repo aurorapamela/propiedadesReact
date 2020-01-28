@@ -1,2 +1,0 @@
-# propiedadesReact
-Created with CodeSandbox
